@@ -25,7 +25,8 @@
             es: 'Utilizamos cookies para asegurarnos de que usted tenga la mejor experiencia en nuestro sitio web. Si continúa usando este sitio, asumimos que lo acepta.',
             nl: 'We gebruiken cookies om ervoor te zorgen dat u de beste ervaring heeft op onze website. Als u deze site blijft gebruiken, gaan we ervan uit dat u dit accepteert.',
             pl: 'Używamy plików cookie w celu zapewnienia najlepszych doświadczeń na naszej stronie internetowej. Jeśli będziesz nadal korzystać z tej strony, zakładamy, że to akceptujesz.',
-            de: 'Wir verwenden Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf unserer Website machen können. Wenn Sie diese Website weiterhin nutzen, gehen wir davon aus, dass Sie dies akzeptieren.'
+            de: 'Wir verwenden Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf unserer Website machen können. Wenn Sie diese Website weiterhin nutzen, gehen wir davon aus, dass Sie dies akzeptieren.',
+            oc: 'Utilizam de cookies per vos provesir la melhora experiéncia possibla sus nòstre site web. Se contunhatz d\'utilizar aqueste site web considerarem que sètz d\'acòrdi amb aquò.'
         },
 
         cookieNoticePosition: 'bottom',
@@ -42,11 +43,13 @@
             es: 'Aprende más.',
             nl: 'Meer informatie',
             pl: 'Dowiedz się więcej',
-            de: 'Mehr erfahren'
+            de: 'Mehr erfahren',
+            oc: 'Ne saber mai'
         },
 
         buttonLocales: {
-            en: 'OK'
+            en: 'OK',
+            oc: 'D\'acòrdi'
         },
 
         expiresIn: 30,
